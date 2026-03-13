@@ -17,7 +17,7 @@ public class Main {
             e.printStackTrace();
         }
 
-        String configFile = "config/config.txt";  // Change to config1.txt or configSU25.txt if needed
+        String configFile = "config/config.txt";
         List<Integer> workloads = new ArrayList<>();
 
         try (BufferedReader reader = new BufferedReader(new FileReader(configFile))) {
