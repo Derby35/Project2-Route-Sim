@@ -1,11 +1,3 @@
-/*
-Name: Ethan Derby
-Course: CNT 4714 Summer 2025
-Assignment title: Project 2 – Multi-threaded programming in Java
-Date: June 15, 2025
-Class: RoutingStation.java
-*/
-
 import java.util.Random;
 import java.util.concurrent.locks.ReentrantLock;
 
